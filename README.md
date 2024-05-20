@@ -9,7 +9,7 @@
 [![Status][shield-link]][complete-link]<br>
 
 [shield-link]: https://img.shields.io/badge/STATUS-COMPLETE-00ff55
-<!-- [complete-link]:  SOLUTION LINK -->
+[complete-link]:  https://www.frontendmentor.io/solutions/social-links-profile-solution-vite-react-T9PmDRcpq4
 
 [![Front end mentor link][shield-link2]][my-link2] [![Github Link][shield-link3]][my-link3]
 
@@ -47,8 +47,8 @@ This is a solution to the [Social links profile coding challenge on Frontend Men
 
 ### Link 🔗
 
-- <a href="https://www.frontendmentor.io/solutions/interactive-rating-component-using-css-flexbox-t5HJL-3ydf" target="_blank">Solution (Frontend Mentor)</a>
-- <a href="https://stonieeeee.github.io/interactive-rating-component-solution/" target="_blank">Live Site (Github)</a>
+- <a href="https://www.frontendmentor.io/solutions/social-links-profile-solution-vite-react-T9PmDRcpq4" target="_blank">Solution (Frontend Mentor)</a>
+- <a href="https://stonieeeee.github.io/social-link-profile-solution/" target="_blank">Live Site (Github)</a>
 
 ### Screenshot 📸
 
